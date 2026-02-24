@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme - LIGHT MODE -->
+    <style name="Base.Theme.StudyTimeBreaker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary: Slate Blue -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">#DBEAFE</item>
+        <item name="colorOnPrimaryContainer">@color/primary_dark</item>
+
+        <!-- Secondary: Warm Coral -->
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondaryContainer">#FDE8E4</item>
+        <item name="colorOnSecondaryContainer">#C4402A</item>
+
+        <!-- Tertiary: Success Green -->
+        <item name="colorTertiary">@color/success</item>
+        <item name="colorTertiaryContainer">#D1FAE5</item>
+        <item name="colorOnTertiaryContainer">#065F46</item>
+
+        <!-- Background and Surface -->
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/on_surface_light</item>
+        <item name="colorOnSurfaceVariant">#5A6478</item>
+        <item name="colorSurfaceVariant">#E2E8F0</item>
+
+        <!-- System bars -->
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/surface_light</item>
+    </style>
+
+    <style name="Theme.StudyTimeBreaker" parent="Base.Theme.StudyTimeBreaker" />
+</resources>
