@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary: Slate Blue - Professional & Calming -->
+    <color name="primary">#3D5A80</color>
+    <color name="primary_dark">#2C4460</color>
+    <color name="primary_light">#98C1D9</color>
+
+    <!-- Secondary: Warm Coral - Energetic & Friendly -->
+    <color name="secondary">#EE6C4D</color>
+    <color name="secondary_light">#FFB4A2</color>
+
+    <!-- Functional Colors -->
+    <color name="danger">#EF476F</color>
+    <color name="success">#06D6A0</color>
+    <color name="warning">#FFD166</color>
+
+    <!-- Light Theme -->
+    <color name="background_light">#F0F4F8</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="on_surface_light">#293241</color>
+
+    <!-- Dark Theme -->
+    <color name="background_dark">#0D1B2A</color>
+    <color name="surface_dark">#1B2838</color>
+    <color name="on_surface_dark">#E0E6ED</color>
+</resources>
